@@ -52,6 +52,7 @@ Let me know what's missing! (preferably by creating a pull request)
 * [Lenses for Composable Servers](https://arxiv.org/abs/2203.15633)
 * [Poly: An abundant categorical setting for mode-dependent dynamics](https://arxiv.org/abs/2005.01894)
 * [Polynomial Functors: A General Theory of Interaction](https://topos.site/poly-book.pdf)
+* [Symmetric edit lenses: a new foundation for bidirectional languages](http://www.cis.upenn.edu/~bcpierce/papers/wagner-thesis.pdf)
 
 ### Blog posts
 
