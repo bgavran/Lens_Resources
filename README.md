@@ -17,18 +17,24 @@ Let me know what's missing! (preferably by creating a pull request)
 * [Higher Lenses](https://ieeexplore.ieee.org/abstract/document/9470613?casa_token=Kg1kMX3hLD8AAAAA:SpbSrfcFd3-V-x_zZ7Hek1OYvMovWnYgfonSf6ThXBtdaGi1LN-xi0OXM7kHZ1lk-ERMNGSumF8)
 * [A clear picture of lens laws](https://sebfisch.github.io/research/pub/Fischer+MPC15.pdf)
 * [Lenses, fibrations and universal translations](https://www.mta.ca/~rrosebru/articles/Lens2Cambridge.pdf)
+* [Relating algebraic and coalgebraic descriptions of lenses](https://journal.ub.tu-berlin.de/eceasst/article/view/726)
 
 ### Poly/Containers/Dependent Lenses
 
 * [A reference for categorical structures on Poly](https://arxiv.org/abs/2202.00534)
 * [Categories of Containers](https://www.cs.le.ac.uk/people/ma139/docs/thesis.pdf)
 * [Higher-Order Containers](http://www.cs.ox.ac.uk/people/samuel.staton/papers/cie10.pdf)
+* [Directed Categories as Containers](https://arxiv.org/abs/1604.01187)
 
 ### Delta Lenses
 
 * [Limits and colimits in a category of lenses](https://arxiv.org/abs/2105.05422)
 * [A diagrammatic approach to symmetric lenses](https://arxiv.org/abs/2101.10481v1)
 * [Delta lenses as coalgebra for a comonad](https://arxiv.org/abs/2108.00390)
+* [Delta lenses and opfibration](https://journal.ub.tu-berlin.de/eceasst/article/view/875)
+* [Unifying Set-Based, Delta-Based, and Edit-Based Lenses](http://ceur-ws.org/Vol-1571/paper_13.pdf)
+* [The category of asymmetric lenses and its proxy pullbacks](https://mdimeglio.github.io/papers/The_category_of_asymmetric_lenses_and_its_proxy_pullbacks.pdf)
+* [Internal lenses as functors and cofunctors](https://arxiv.org/abs/2009.06835v1)
 
 ### Dialectica Categories
 
@@ -53,6 +59,7 @@ Let me know what's missing! (preferably by creating a pull request)
 * [Poly: An abundant categorical setting for mode-dependent dynamics](https://arxiv.org/abs/2005.01894)
 * [Polynomial Functors: A General Theory of Interaction](https://topos.site/poly-book.pdf)
 * [Symmetric edit lenses: a new foundation for bidirectional languages](http://www.cis.upenn.edu/~bcpierce/papers/wagner-thesis.pdf)
+* [Lifting couplings in Wassterstein Spaces](https://arxiv.org/abs/2110.06591)
 
 ### Blog posts
 
